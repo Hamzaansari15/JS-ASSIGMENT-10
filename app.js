@@ -34,3 +34,32 @@
 // }
 // var a = +prompt("Enter a number");
 // square(a);
+// var a = +prompt("Enter starting number");
+// var b = +prompt("Enter ending number");
+// function loop(){
+//     for(i = a; i < b; ++i){
+//         document.write(i);
+//     }
+// }
+// loop();
+// var a = +prompt("Enter height of triangle");
+// var b = +prompt("Enter width of triangle");
+// function area(a,b){
+//     document.write(a * b);
+// }
+// area(a,b);
+// var a = "the quick brown fox";
+// var b = a.split(" ");
+// console.log(b);
+// var c = b.pop();
+// console.log(c)
+// function calc(a){
+//     document.write(2*3.14*a);
+// }
+// var a =+prompt("Enter the radius of circle");
+// calc(a);
+// function calc(a){
+//     document.write(3.14*(a*a));
+// }
+// var a =+prompt("Enter the radius of circle");
+//  calc(a);
